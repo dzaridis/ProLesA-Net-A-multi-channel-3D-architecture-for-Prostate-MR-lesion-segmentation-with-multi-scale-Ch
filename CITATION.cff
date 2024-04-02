@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "ProLesA-Net: A multi-channel 3D architecture for Prostate MR lesion segmentation with multi-scale Channel and Spatial attentions"
+version: 1.0.0
+date-released: 2024-04-02
+
+authors:
+  - family-names: "Zaridis"
+    given-names: "Dimitrios I."
+    affiliation: "Biomedical Research Institute, FORTH, Ioannina, GR45110, Greece; Biomedical Engineering Laboratory, School of Electrical & Computer Engineering, National Technical University of Athens, Athens, Greece; Unit of Medical Technology and Intelligent Information Systems, Dept. of Materials Science and Engineering, University of Ioannina, Ioannina, GR45110, Greece"
+  - family-names: "Mylona"
+    given-names: "Eugenia"
+    affiliation: "Biomedical Research Institute, FORTH, Ioannina, GR45110, Greece"
+  - family-names: "Tsiknakis"
+    given-names: "Nikos"
+    affiliation: "Institute of Computer Science, FORTH, Heraklion, Greece"
+  - family-names: "Tachos"
+    given-names: "Nikolaos S."
+    affiliation: "Biomedical Research Institute, FORTH, Ioannina, GR45110, Greece"
+  - family-names: "Matsopoulos"
+    given-names: "George K."
+    affiliation: "Biomedical Engineering Laboratory, School of Electrical & Computer Engineering, National Technical University of Athens, Athens, Greece"
+  - family-names: "Marias"
+    given-names: "Kostas"
+    affiliation: "Computational Biomedicine Laboratory, FORTH, Heraklion, Greece"
+  - family-names: "Tsiknakis"
+    given-names: "Manolis"
+    affiliation: "Computational Biomedicine Laboratory, FORTH, Heraklion, Greece"
+  - family-names: "Fotiadis"
+    given-names: "Dimitrios I."
+    affiliation: "Biomedical Research Institute, FORTH, Ioannina, GR45110, Greece; Biomedical Engineering Laboratory, School of Electrical & Computer Engineering, National Technical University of Athens, Athens, Greece"
+    email: "fotiadis@uoi.gr"
+
+repository-code: https://github.com/dzaridis/ProLesA-Net-A-multi-channel-3D-architecture-for-Prostate-MR-lesion-segmentation-with-multi-scale-Ch
