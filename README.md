@@ -1,5 +1,6 @@
 # ProLesA-Net
-The current repository serves as the placeholder for the ProLesA-Net model
+Official repository for the ProLesA-Net model, published in here Cell Patterns
+https://www.cell.com/action/showPdf?pii=S2666-3899%2824%2900107-7
 
 # Model Architecture
 ProLesA-Net along with the multiscale attention mechanisms are presented below:
