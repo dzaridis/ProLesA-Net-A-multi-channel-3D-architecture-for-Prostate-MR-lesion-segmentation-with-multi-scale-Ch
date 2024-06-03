@@ -48,6 +48,7 @@ Non-trainable params: 6,912
 # Citation
 Please Cite our work if you find it usefull ;)
 
+```
 @article{ZARIDIS2024100992,
 title = {ProLesA-Net: A multi-channel 3D architecture for prostate MRI lesion segmentation with multi-scale channel and spatial attentions},
 journal = {Patterns},
@@ -61,3 +62,4 @@ keywords = {deep learning, magnetic resonance imaging, prostate lesion segmentat
 abstract = {Summary
 Prostate cancer diagnosis and treatment relies on precise MRI lesion segmentation, a challenge notably for small (<15 mm) and intermediate (15–30 mm) lesions. Our study introduces ProLesA-Net, a multi-channel 3D deep-learning architecture with multi-scale squeeze and excitation and attention gate mechanisms. Tested against six models across two datasets, ProLesA-Net significantly outperformed in key metrics: Dice score increased by 2.2%, and Hausdorff distance and average surface distance improved by 0.5 mm, with recall and precision also undergoing enhancements. Specifically, for lesions under 15 mm, our model showed a notable increase in five key metrics. In summary, ProLesA-Net consistently ranked at the top, demonstrating enhanced performance and stability. This advancement addresses crucial challenges in prostate lesion segmentation, enhancing clinical decision making and expediting treatment processes.}
 }
+```
