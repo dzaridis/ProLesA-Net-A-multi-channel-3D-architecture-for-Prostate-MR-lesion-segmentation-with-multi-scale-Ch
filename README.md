@@ -2,6 +2,11 @@
 Official repository for the ProLesA-Net model, published in here Cell Patterns  
 https://www.cell.com/action/showPdf?pii=S2666-3899%2824%2900107-7
 
+# Requirements
+```
+pip install tensorflow==2.7.0
+```
+
 # Model Architecture
 ProLesA-Net along with the multiscale attention mechanisms are presented below:
 ![ProLesA-Net](ModelMaterials/ProlesaNet.png)
